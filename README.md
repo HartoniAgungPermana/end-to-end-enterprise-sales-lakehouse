@@ -80,7 +80,7 @@ This stack reflects real-world enterprise data architecture patterns.
 
 # **📂 Dataset Overview**
 
-![](resource/data_integration_model.jpg.jpg)
+![](resource/data_integration_model.jpg)
 
 The project integrates structured datasets from two operational systems:
 
